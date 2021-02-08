@@ -8,7 +8,7 @@ export const Detail = (props) => {
 
     const _fetchMovie = async (id) => {
         try {
-            const resp = await fetch(`http://www.omdbapi.com/?apikey=${process.env.REACT_APP_API_OMDB}&i=${id}`);
+            const resp = await fetch(`https://www.omdbapi.com/?apikey=${process.env.REACT_APP_API_OMDB}&i=${id}`);
             const dataMovie = await resp.json();
             setMovie(dataMovie)
         } catch (error) {

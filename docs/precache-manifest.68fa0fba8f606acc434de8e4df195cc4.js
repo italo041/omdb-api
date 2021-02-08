@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6a5d0a0e4b1e947203ea92e2a02b0462",
+    "revision": "9e0fd9534cf54c51b1620cf05636b3ea",
     "url": "/omdb-api/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/omdb-api/static/css/2.c0b92a6e.chunk.css"
   },
   {
-    "revision": "de5a647eda0c21c2f8d9",
+    "revision": "a47adb3128520fad2b6f",
     "url": "/omdb-api/static/css/main.d9e41e92.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/omdb-api/static/js/2.469dfd6b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "de5a647eda0c21c2f8d9",
-    "url": "/omdb-api/static/js/main.6d97bc3c.chunk.js"
+    "revision": "a47adb3128520fad2b6f",
+    "url": "/omdb-api/static/js/main.73e5521b.chunk.js"
   },
   {
     "revision": "0ddf3a95b49d5062ee61",
